@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+h2 {
+    position: relative;
+}
+h2:after{
+    content:"";
+}
